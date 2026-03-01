@@ -27,6 +27,9 @@ export default function App() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             {/* Left - Content */}
             <div className="space-y-8">
+              <div className="flex items-center gap-3 mb-4">
+                <img src="/logo.svg" alt="Smart Finances Logo" className="h-12 w-12" />
+              </div>
               <div className="inline-block px-4 py-2 bg-[#DBEAFE] text-[#2563EB] rounded-full text-sm font-semibold">
                 ✨ Próximo lanzamiento
               </div>
