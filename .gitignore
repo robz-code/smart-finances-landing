@@ -42,3 +42,4 @@ coverage/
 
 # Optional: uncomment if you use pnpm
 # .pnpm-store/
+.vercel

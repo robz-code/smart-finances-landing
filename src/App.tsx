@@ -56,7 +56,7 @@ export default function App() {
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-r from-[#2563EB] to-[#06B6D4] rounded-full opacity-20 blur-3xl"></div>
               <PhoneMockup
-                imageUrl="./src/assets/HomePage.png"
+                imageUrl="/HomePage.png"
                 alt="Smart Finances App Interface"
                 className="relative z-10"
               />
